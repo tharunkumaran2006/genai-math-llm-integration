@@ -110,4 +110,4 @@ calculator(**args)
 <img width="1118" height="270" alt="Screenshot 2025-09-19 102953" src="https://github.com/user-attachments/assets/c502a940-2c8e-4168-a383-79cd0cdcf682" />
 
 ### RESULT: 
-The code enables LLM-driven Area of Rectangle calculation via function calling.
+The code enables LLM-driven Calculator performing basic arithmetic operations via function calling.
